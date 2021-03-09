@@ -1,0 +1,11 @@
+Note: when referring to a folder in gitbash we will say directory instead
+
+Terminal Commands:
+
+ls - the list command. It will list everything in your current directory
+mkdir - the make directory command (aka make a new folder)
+cd - the change directory command, allows you to go to other directories
+pwd - prints the directory you are currently in
+touch - the command to create a new file
+code - the command to open a directory in VSCode
+git add . - ALL changes in ALL files get added
